@@ -1,0 +1,27 @@
+{
+  "name": "NLW-Starter",
+  "version": "1.0.0",
+  "description": "Conteúdo de estudo disponibilizado pela Rocktseat da semana Next Level Week Starter\r ##Professor Mayk Brito",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "nodemon nlw/src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Damariskesia/NLW-Starter.git"
+  },
+  "keywords": [],
+  "author": "Damaris Késia Vaz de Oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Damariskesia/NLW-Starter/issues"
+  },
+  "homepage": "https://github.com/Damariskesia/NLW-Starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
